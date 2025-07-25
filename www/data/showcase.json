@@ -172,12 +172,6 @@
     "image": "webhook-manager"
   },
   {
-    "title": "Deno Jobs",
-    "link": "https://vacancy.deno.dev/",
-    "github": "VofSwords/deno-jobs",
-    "image": "deno-jobs"
-  },
-  {
     "title": "java.minidoodle",
     "link": "https://javaminidoodle.de/",
     "image": "javaminidoodle"
@@ -205,12 +199,6 @@
     "link": "https://fresh-notion-blog.deno.dev/",
     "github": "xijaja/fresh-notion-blog",
     "image": "fresh-notion-blog"
-  },
-  {
-    "title": "Denopaste",
-    "link": "https://denopaste.com/",
-    "github": "stephenmelnicki/denopaste",
-    "image": "denopaste"
   },
   {
     "title": "m33t",
@@ -267,12 +255,6 @@
     "image": "pollify"
   },
   {
-    "title": "JPT ChatGPT Rooms",
-    "link": "https://jpt.ma/",
-    "github": "zizwar/jpt",
-    "image": "jptchat"
-  },
-  {
     "title": "Mieszko",
     "link": "https://mieszko.xyz/",
     "image": "mieszko"
@@ -311,33 +293,15 @@
     "image": "liberchat"
   },
   {
-    "title": "Miguel Rangel Site",
-    "link": "https://crawford.ml",
-    "github": "denyncrawford/new-portfolio",
-    "image": "miguel-rangel-site"
-  },
-  {
     "title": "Deno Artwork",
     "link": "https://artwork.deno.dev/",
     "github": "jasonjgardner/deno-artwork",
     "image": "deno-artwork"
   },
   {
-    "title": "Text2Audio",
-    "link": "https://text2audio.cc/",
-    "github": "dunkbing/text2audio",
-    "image": "text2audio"
-  },
-  {
     "title": "FilterHN",
     "link": "https://filterhn.com/",
     "image": "filter-hn"
-  },
-  {
-    "title": "AquaVibes",
-    "link": "https://aquavibes.earth/",
-    "github": "arturolume/aquavibes",
-    "image": "aquavibes"
   },
   {
     "title": "CS2 Items",
@@ -365,11 +329,6 @@
     "title": "Living Pixel Solutions",
     "link": "https://livingpixel.io",
     "image": "living-pixel"
-  },
-  {
-    "title": "RFUI",
-    "link": "https://rfui.deno.dev/",
-    "image": "rfui"
   },
   {
     "title": "Echo-Echo",
@@ -438,5 +397,11 @@
     "link": "https://moatez-bejaoui.deno.dev",
     "github": "https://github.com/MoatezNG",
     "image": "moatez-desktop"
-  }
+  },
+  {
+    "title": "ATP Airport",
+    "link": "https://atpairport.com",
+    "github": "https://github.com/MoatezNG",
+    "image": "moatez-desktop"
+  },
 ]
